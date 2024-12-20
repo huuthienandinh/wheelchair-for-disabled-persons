@@ -1,2 +1,1 @@
-# wheelchairs-for-disabilities
- 
+# Wheelchair for Disabled Persons
